@@ -1,0 +1,15 @@
+torch
+torchvision
+tensorflow
+numpy
+pandas
+scikit-learn
+matplotlib
+opencv-python
+albumentations
+tqdm
+dvc
+mlflow
+fastapi
+uvicorn
+python-multipart
